@@ -20,3 +20,7 @@ In UpdateView, the user can change the name, purchaser, and description of the s
 In DeleteView, the user can delete the selected snack.
 
 In CreateView, the user can add a new snack by inputing the name of the snack, selecting the username of the purchaser, and description of the snack.
+
+### Developer notes
+
+Delete view not deleting snacks yet, but properly presents correct information.
